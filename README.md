@@ -17,10 +17,13 @@ Node.js enables fast, non-blocking I/O operations, ideal for real-time communica
 5) GitHub Pages
 
 ##Getting Started:
-Clone: git clone https://github.com/jeevanthapa1987/portfolio.git
-Install: npm install
-Run: npm start
-Access:http://localhost:52330/dist/index.html
+--Clone: git clone https://github.com/jeevanthapa1987/portfolio.git
+
+--Install: npm install
+
+--Run: npm start
+
+--Access:http://localhost:52330/dist/index.html
 
 ##Usage:
 Explore Jeevan's Portfolio here to discover his work and skills.
